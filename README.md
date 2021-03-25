@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Dima, I’m a student in uCode</h1>
 <h3 align="center">👀  I’m interested in development for mobile devices
- :books: currently learning C++ on game dev track in partnership with Ubisoft
- - :mag: looking for a trainee position
+<h3 align="center"> :books: currently learning C++ on game dev track in partnership with Ubisoft
+<h3 align="center"> - :mag: looking for a trainee position
 
 <p align="center">
   <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='https://www.flaticon.com/svg/static/icons/svg/561/561127.svg' height='50px'/></a>
