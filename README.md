@@ -4,10 +4,6 @@
 <h4 align="center"> :books: currently learning C++ on game dev track in partnership with Ubisoft
 <h4 align="center"> :mag: looking for a trainee position
   
-<a>
-  
-  
-</a> 
 <h1 align="center">
 <p align="center">
   <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='https://www.flaticon.com/svg/static/icons/svg/561/561127.svg' height='50px'/></a>  
