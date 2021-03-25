@@ -8,6 +8,7 @@
   <a href="https://t.me/dufrane"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111812.svg' height='50px'/></a>
   <a href="skype:dmitriy.vasilenko_2"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111819.svg' height='50px'/></a>
  <a href="skype:dmitriy.vasilenko_2?userinfo"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111819.svg' height='50px'/></a>
+ <a href="skype:dmitriy.vasilenko_2?chat">dmitriy.vasilenko_2<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111812.svg' height='50px'/></a>
 </p>
 
 
