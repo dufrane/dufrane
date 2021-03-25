@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='https://www.flaticon.com/svg/static/icons/svg/561/561127.svg' height='50px'/></a>
   <a href="https://t.me/dufrane"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111812.svg' height='50px'/></a>
-<!--   <a href="skype:dmitriy.vasilenko_2"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111819.svg' height='50px'/></a> -->
+  <a title="WhatsApp" href="whatsapp://send?phone=+380506628016">WhatsApp</a>
 </p>
 
 
