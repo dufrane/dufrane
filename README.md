@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='https://www.flaticon.com/svg/static/icons/svg/561/561127.svg' height='50px'/></a>
   <a href="https://t.me/dufrane"><img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111812.svg' height='50px'/></a>
-  <a href="https://www.facebook.com/dmitriy.vasilenko.35"><img src='https://icon-icons.com/ru/значок/в-FB-facebook-социальные-сети/65434' height='50px'/></a>
+  <a href="https://www.facebook.com/dmitriy.vasilenko.35"><img src='https://cdn.icon-icons.com/icons2/509/PNG/512/Github_icon-icons.com_49946.png' height='50px'/></a>
 </p>
 
 
