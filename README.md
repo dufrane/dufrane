@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, my name is Dima, I’m a student in uCode</h1>
+<h1 align="center">Hi 👋, my name is Dima! 
+<h3 align="center"> I’m a student in uCode
 <h4 align="center">👀  I’m interested in development for mobile devices
 <h4 align="center"> :books: currently learning C++ on game dev track in partnership with Ubisoft
 <h4 align="center"> :mag: looking for a trainee position
