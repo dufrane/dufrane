@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Dmytro! 
-<h3 align="center"> I’m a student in uCode
-<h4 align="center"> :books: currently learning C++ on game dev track in partnership with Ubisoft
+<h3 align="center"> I’m a trainee in EPAM 
+<h4 align="center"> :books: currently learning swift on iOS online program
 <!-- <h4 align="center"> :mag: looking for a trainee position -->
   
 <h1 align="center">
