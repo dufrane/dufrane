@@ -5,7 +5,7 @@
   
 <h1 align="center">
 <p align="center">
-  <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='<img src="https://img.icons8.com/ios/50/000000/new-post.png"/>' height='50px'/></a>  
+  <a href="mailto:dmitriy.vasilenko@gmail.com"><img src='https://img.icons8.com/ios/250/000000/new-post.png' height='50px'/></a>  
   <a href="https://www.facebook.com/dmitriy.vasilenko.35"><img src='https://img.icons8.com/ios/250/000000/facebook-new.png' height='50px'/></a>  
   <a href="https://t.me/dufrane"><img src='https://img.icons8.com/ios/250/000000/telegram-app.png' height='50px'/></a>
 </p>
